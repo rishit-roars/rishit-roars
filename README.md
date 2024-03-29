@@ -1,6 +1,6 @@
 # Hi there, I'm Rishit! 👋
 
-![Rishit's Profile](https://avatars.githubusercontent.com/u/165304672?v=4)
+![Rishit's Profile](https://github.com/rishit-roars/rishit-roars/blob/6f7acd83accd2e2a35865799a586fb7532bcbb3c/WhatsApp%20Image%202024-03-29%20at%2013.35.35.jpeg)
 
 I'm a passionate developer interested in various technologies and projects.
 
